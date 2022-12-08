@@ -1,9 +1,9 @@
-import CounterApp from './components/CounterApp';
+import ColorPicker from './components/ColorPicker';
 
 function App() {
   return (
     <div className='container h-screen flex justify-center items-center'>
-      <CounterApp />
+      <ColorPicker />
     </div>
   );
 }
